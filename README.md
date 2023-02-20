@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi, I'm Karolina👋</h1>
 <h3 align="center">During the transition from a classical violinist to Java Junior Developer 🐱‍👤 <br><br>
 </h3>
