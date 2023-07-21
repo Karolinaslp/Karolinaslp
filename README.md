@@ -8,7 +8,7 @@
 <p align="left">
 </p>
 🛠 Technical Stack<br>
-*   Java SE<br>
+*   Java SE, Kotlin<br>
 *   Git, GitHub<br>
 *   Maven<br>
 *   JDBC, Hibernate, SpringData<br>
