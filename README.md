@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karolina👋</h1>
-<h3 align="center">During the transition from a classical violinist to Java Junior Developer 🐱‍👤 <br><br>
+<h3 align="center">Regular Software Engineer 🐱‍👤 <br><br>
 </h3>
 - 🔭 I’m currently working on Bank Spring/REST application <br>
 - 🌱 I’m currently learning Spring Security<br>
@@ -10,7 +10,7 @@
 🛠 Technical Stack<br>
 *   Java SE, Kotlin<br>
 *   Git, GitHub<br>
-*   Maven<br>
+*   Maven, Gradle<br>
 *   JDBC, Hibernate, SpringData<br>
 *   SQL (PostgreSQL, MySQL) <br>
 *   Spring Boot, Rest API<br>
